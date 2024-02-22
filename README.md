@@ -14,11 +14,11 @@ El proyecto consiste en la creación de un formulario de encuesta utilizando HTM
 
 ## Comparación con el Proyecto Original
 
-Este proyecto está basado en el [formulario original de Free Code Camp](https://survey-form.freecodecamp.rocks/). Aunque la estructura y los elementos del formulario son similares, se han realizado algunas modificaciones en el diseño y el estilo para adaptarlo a las preferencias personales y las habilidades del autor.
+Este proyecto está basado en el <a href="https://survey-form.freecodecamp.rocks/" target="_blank">formulario original de Free Code Camp</a>. Aunque la estructura y los elementos del formulario son similares, se han realizado algunas modificaciones en el diseño y el estilo para adaptarlo a las preferencias personales y las habilidades del autor.
 
 ## Despliegue
 
-El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: [Survey Form - FreeCodeCamp](https://jeanlarez.github.io/survey-form.freecodecamp/).
+El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: <a href="https://jeanlarez.github.io/survey-form.freecodecamp/" target="_blank">Survey Form - FreeCodeCamp</a>.
 
 ## Instrucciones para Visualizar el Proyecto
 
