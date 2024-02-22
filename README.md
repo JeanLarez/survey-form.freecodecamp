@@ -18,7 +18,7 @@ Este proyecto está basado en el [formulario original de Free Code Camp](https:/
 
 ## Despliegue
 
-El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: [Survey Form - FreeCodeCamp](https://miusuario.github.io/survey-form).
+El proyecto se ha desplegado en GitHub Pages y se puede acceder a él en el siguiente enlace: [Survey Form - FreeCodeCamp](https://jeanlarez.github.io/survey-form.freecodecamp/).
 
 ## Instrucciones para Visualizar el Proyecto
 
